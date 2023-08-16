@@ -29,7 +29,7 @@ EMS-server:
 3. In server we use the serverless offline and nodemon.
 4. We give the author and packages versions details in package.json file.
 
-## Need to run this both projects !!!
+## Need to run both of these projects !!!
 
 Instruction:
 
